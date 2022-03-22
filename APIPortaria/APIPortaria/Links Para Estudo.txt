@@ -1,0 +1,11 @@
+﻿ADO.NET - conexão, comandos e leitura SQL
+http://www.macoratti.net/08/11/c_adn_1.htm
+
+acesso e manutenção de dados (CRUD)
+http://www.macoratti.net/08/11/c_sql_m1.htm
+
+Comandos IDE
+https://docs.microsoft.com/en-us/visualstudio/ide/csharp-developer-productivity?utm_source=VisualStudio&utm_medium=aspnet-getstarted&utm_campaign=VisualStudio&view=vs-2019
+
+dicas API
+https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
